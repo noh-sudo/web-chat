@@ -1,6 +1,18 @@
 # 라이브러리와 주요 키를 제외했습니다.
 # 필요한 라이브러리는 requirements.txt와 README.md를 참고해주세요.
 
-.venv
-.vscode
+# 가상환경
+.venv/
+
+# vscode
+.vscode/
+
+# 파이참
+.idea/
+
+# 캐시 디렉토리
+__pycache__/
+*.py[cod]
+
+# 환경 변수
 .env
