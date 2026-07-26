@@ -1,0 +1,6 @@
+# 라이브러리와 주요 키를 제외했습니다.
+# 필요한 라이브러리는 requirements.txt와 README.md를 참고해주세요.
+
+.venv
+.vscode
+.env
